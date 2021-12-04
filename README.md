@@ -53,7 +53,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/KOT-BOTS-REPO/KOT-FILE-STORE-BOT
+git clone https://github.com/KOTDEOMOREPOS/KOT-FILE-STORE-BOT
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
